@@ -11117,3 +11117,5 @@ X-Amzn-Requestid: 4de52eef-ce24-4126-8a80-de7a91f7a6c5
 2022-03-21T20:50:32.239Z [TRACE] statemgr.Filesystem: writing snapshot at terraform.tfstate
 2022-03-21T20:50:32.270Z [TRACE] statemgr.Filesystem: removing lock metadata file .terraform.tfstate.lock.info
 2022-03-21T20:50:32.270Z [TRACE] statemgr.Filesystem: unlocked by closing terraform.tfstate
+
+remove logs

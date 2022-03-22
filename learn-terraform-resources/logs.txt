@@ -4524,3 +4524,5 @@
 2022-03-22T01:18:42.228Z [TRACE] statemgr.Filesystem: writing snapshot at terraform.tfstate
 2022-03-22T01:18:42.245Z [TRACE] statemgr.Filesystem: removing lock metadata file .terraform.tfstate.lock.info
 2022-03-22T01:18:42.248Z [TRACE] statemgr.Filesystem: unlocked by closing terraform.tfstate
+
+new stuff
